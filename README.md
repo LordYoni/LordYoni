@@ -8,7 +8,7 @@ Computer science student
 
 * 🌍  I'm based in Saint-Quentin
 * ✉️  You can contact me at [taine.yoni@gmail.com](mailto:taine.yoni@gmail.com)
-* 🚀  I'm currently work on nothing
+* 🚀  I'm currently net working (to say: not working)
 * 🧠  I'm learning how to control a drone using hand gestures with Mediapipe ! 🚁🐍
 * 🤝  I'm open to collaborating on unleashing creative chaos and exploring the exciting territories of technology together! 🚀
 * ⚡  The clumsy dance of code. What a joy! 💃💻🤣
