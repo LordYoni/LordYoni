@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-👋 Hey there! I'm Yoni, an 18-year-old computer science student at INSSET Saint-Quentin. Constantly seeking knowledge and eager to tackle new challenges, I showcase my projects and explorations in the captivating realm of programming. With a passion for innovation and creativity, I strive to contribute to the vast world of open source. Join me on this digital journey where every line of code tells a story! 💻✨
+👋 Hey there! I'm Yoni, an 19-year-old computer science student at INSSET Saint-Quentin. Constantly seeking knowledge and eager to tackle new challenges, I showcase my projects and explorations in the captivating realm of programming. With a passion for innovation and creativity, I strive to contribute to the vast world of open source. Join me on this digital journey where every line of code tells a story! 💻✨
 
 * 🌍  I'm based in Saint-Quentin
 * ✉️  You can contact me at [taine.yoni@gmail.com](mailto:taine.yoni@gmail.com)
