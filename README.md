@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-👋 Hey, I’m Yoni — a 19-year-old computer science student at INSSET Saint-Quentin.
+👋 Hey, I’m Yoni — a 20-year-old computer science student at INSSET Saint-Quentin.
 
 Curious and driven, I love exploring new ideas and turning them into projects that mix creativity and innovation.
 
