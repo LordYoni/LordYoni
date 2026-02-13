@@ -14,7 +14,7 @@ Always eager to learn and grow, I see every project as a step forward in my jour
 
 *   🌍  I'm based in Saint-Quentin
 *   ✉️  You can contact me at [taine.yoni@gmail.com](mailto:taine.yoni@gmail.com)
-*   🚀  I'm currently working on a project [to monitor water quality in real time](http://github.com/ClubElecINSSET/WaterMonitor)
+*   🚀  I'm currently working on a FPV drone
 *   🧠  I'm currently learning some electronic tips
 *   👥  I'm looking to collaborate on projects that unleash creative chaos and push the exciting frontiers of technology! 🚀
 *   💬  Ask me about I'm full of myself obviously 😅
